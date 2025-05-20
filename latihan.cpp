@@ -22,6 +22,10 @@ public:
         kodeBarang = kode;
     }
 
-
+    // Fungsi untuk menampilkan informasi barang
+    void tampilkanInformasi() {
+        cout << "Nama Barang : " << namaBarang << endl;
+        cout << "Kode Barang : " << kodeBarang << endl;
+    }
 };
 
