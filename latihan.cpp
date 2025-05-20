@@ -22,19 +22,6 @@ public:
         kodeBarang = kode;
     }
 
-    // Fungsi untuk menampilkan informasi barang
-    void tampilkanInformasi() {
-        cout << "Nama Barang : " << namaBarang << endl;
-        cout << "Kode Barang : " << kodeBarang << endl;
-    }
+
 };
 
-int main() {
-    // Membuat objek dari class Barang
-    Barang barang1("Surya12", "STOK011");
-
-    // Menampilkan informasi barang
-    barang1.tampilkanInformasi();
-
-    return 0;
-}
