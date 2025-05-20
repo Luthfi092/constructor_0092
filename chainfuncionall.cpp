@@ -16,3 +16,8 @@ class buku{
     }
 };
 
+int main(){
+    buku bukunya;
+  
+  
+}
