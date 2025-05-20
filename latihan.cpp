@@ -29,3 +29,10 @@ public:
     }
 };
 
+int main() {
+    // Membuat objek dari class Barang
+    Barang barang1("Surya12", "STOK011");
+
+   
+  
+}
