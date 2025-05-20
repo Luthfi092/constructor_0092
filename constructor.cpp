@@ -7,11 +7,5 @@ class mahasiswa{
 
 };
 
-mahasiswa :: mahasiswa(){
-    cout << "Constructor terpanggil" <<endl;
-}
 
-int main(){
-    mahasiswa mhs;
-    return 0;
-}
+
