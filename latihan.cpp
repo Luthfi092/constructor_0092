@@ -33,6 +33,8 @@ int main() {
     // Membuat objek dari class Barang
     Barang barang1("Surya12", "STOK011");
 
-   
+    // Menampilkan informasi barang
+    barang1.tampilkanInformasi();
+
   
 }
