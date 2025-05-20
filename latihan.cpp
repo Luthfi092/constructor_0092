@@ -36,5 +36,5 @@ int main() {
     // Menampilkan informasi barang
     barang1.tampilkanInformasi();
 
-  
+    return 0;
 }
